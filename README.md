@@ -1,2 +1,2 @@
-# Sample Documentation
-http://docs.olakunlevpn.com/sampledocs
+# Sample two Documentation
+http://docs.olakunlevpn.com/sampledocstwo
